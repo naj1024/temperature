@@ -30,6 +30,5 @@ Scripts to read DS18B20 temperature probes on a raspberry pi.
      #*/1 * * * * /opt/temperature/bin/logTemps.sh
 ```
 
-
-
-
+### Blog ###
+Some more information available [here](http://usbspyder.blogspot.co.uk/)
