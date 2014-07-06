@@ -30,5 +30,18 @@ Scripts to read DS18B20 temperature probes on a raspberry pi.
      #*/1 * * * * /opt/temperature/bin/logTemps.sh
 ```
 
+### Scripts ###
+```
+createPage.sh script to create a web page, also create gnuplot graphs
+readTemps.sh  probe reading script
+rrdCreate2.sh script to create rrd databases
+rrdCreate.sh  script to create rrd databases
+rrdGraphs.sh  script to generate rrd graphs
+temps48.p     gnuplot script
+temps.p       gnuplot script
+
+logTemps.sh   new script to read individual probes to separate files
+```
+
 ### Blog ###
 Some more information available [here](http://usbspyder.blogspot.co.uk/)
